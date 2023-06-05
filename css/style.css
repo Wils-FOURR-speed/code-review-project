@@ -1,0 +1,27 @@
+#navbar {
+    padding: 0;
+    margin: 0;
+    top: 0;
+    width: 300px;
+    max-height: 275px;
+    border: none;
+    z-index: 1;
+    border-bottom: 2px solid;
+    left: 0px;
+    min-width: 290px;
+    height: 100%;
+
+}
+
+nav {
+    display: block;
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: white;
+    }
+}
+#main-doc {
+    margin-top: 150px;
+}
